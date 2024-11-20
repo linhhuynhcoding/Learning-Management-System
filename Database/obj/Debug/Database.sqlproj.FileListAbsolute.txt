@@ -1,0 +1,10 @@
+D:\02_Work\CODE\Learning-Management-System\Database\bin\Debug\Database.dacpac
+D:\02_Work\CODE\Learning-Management-System\Database\bin\Debug\Database.dll
+D:\02_Work\CODE\Learning-Management-System\Database\bin\Debug\Database.pdb
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\Model.xml
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\refactor.xml
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\postdeploy.sql
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\predeploy.sql
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\Database.dll
+D:\02_Work\CODE\Learning-Management-System\Database\obj\Debug\Database.pdb

@@ -1,0 +1,26 @@
+﻿  ConsoleApplication.cpp
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(172,31): warning C4838: conversion from 'int' to 'SQLSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(172,37): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(172,41): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(369,32): warning C4838: conversion from 'int' to 'SQLSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(369,38): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(369,42): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(734,10): warning C4101: 'indicator1': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(734,22): warning C4101: 'indicator2': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(847,34): warning C4838: conversion from 'int' to 'SQLSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(847,40): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\AdminService.h(847,44): warning C4838: conversion from 'int' to 'SQLUSMALLINT' requires a narrowing conversion
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\GiangvienService.h(302,10): warning C4101: 'indicator1': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\GiangvienService.h(302,22): warning C4101: 'indicator2': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\SinhVienService.h(302,10): warning C4101: 'indicator1': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\SinhVienService.h(297,11): warning C4101: 'column4': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\SinhVienService.h(302,22): warning C4101: 'indicator2': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\ConsoleApplication.cpp(156,25): warning C4101: 'ngay': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\ConsoleApplication.cpp(156,21): warning C4101: 'ca': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\ConsoleApplication.cpp(169,25): warning C4101: 'ngay': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\ConsoleApplication.cpp(169,21): warning C4101: 'ca': unreferenced local variable
+  GiangvienService.cpp
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\GiangvienService.h(302,10): warning C4101: 'indicator1': unreferenced local variable
+D:\02_Work\CODE\Learning-Management-System\ConsoleApplication\GiangvienService.h(302,22): warning C4101: 'indicator2': unreferenced local variable
+  Generating Code...
+  ConsoleApplication.vcxproj -> D:\02_Work\CODE\Learning-Management-System\x64\Debug\ConsoleApplication.exe
